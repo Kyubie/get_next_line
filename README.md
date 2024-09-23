@@ -1,1 +1,1 @@
-# get_next_line
+Get_next_line project's aim is here to implement a function that can read a file by lines and displays them
